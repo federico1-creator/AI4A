@@ -20,3 +20,5 @@ images, taking into account also the correlation among the objects and the seman
 information.
 Finally one can say that models trained on automotive related data perform better in
 the specific domain than models trained on a general dataset.
+
+![AI4A.jpg]()
