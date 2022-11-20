@@ -19,6 +19,6 @@ The Image captioning model can describe in natural language the concepts in the
 images, taking into account also the correlation among the objects and the semantic
 information.
 Finally one can say that models trained on automotive related data perform better in
-the specific domain than models trained on a general dataset.
+the specific domain (automotive) than models trained on a general dataset.
 
 ![](/images/AI4A.jpg)
